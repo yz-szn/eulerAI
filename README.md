@@ -1,6 +1,6 @@
 # eulerAI
 
-# Daftar disini kalo belum daftar https://shorturl.at/7EGw6
+# Daftar disini kalo belum daftar [DISINI](https://euler.ai/points?f=0xdf01820a891a8e75144cd6da4ae82c203fe044c1)
 
 ## 1. Clone Repositori
 Jalankan perintah berikut di terminal:
